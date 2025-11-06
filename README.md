@@ -1,6 +1,5 @@
 ## Buenas, soy Manuel Ramírez Martín
 
-<!--
 **ManuelRM-web/ManuelRM-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 Estudiante de DAW (Desarrollo de Aplicaciones Web)  
